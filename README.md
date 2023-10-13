@@ -1,16 +1,7 @@
-# simple_recipe_app_ui_2
+# Simple Recipe App UI 2
 
-A new Flutter project.
+Simple Recipe App UI 2
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Recipe_App_UI_2/assets/146417248/0c5e47ed-bd3f-4118-b5c6-eb2492bbfe92)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Simple_Recipe_App_UI_2/assets/146417248/48a0c72c-2a53-4265-a1f6-0f7145856702)
